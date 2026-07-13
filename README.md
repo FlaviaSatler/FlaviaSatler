@@ -1,29 +1,105 @@
-## Hello! I'am Flávia Satler, FrontEnd Developer
+# Hi, I'm Flávia 👋
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div align="center">
-  <a href="https://github.com/flaviasatler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviasatler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviasatler&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-          
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flávia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flávia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Flávia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Flávia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Flávia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Flávia-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Flávia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/flaviasatler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <br>
- 
-  ![Snake animation](https://github.com/flaviasatler/flaviasatler/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-          
+## Software Engineer specialized in Front-End Engineering
+
+I build scalable digital products with a strong focus on software architecture, product engineering and developer experience.
+
+After nearly 8 years building fintech products, I'm now dedicating part of my time to building open-source projects that reflect how modern software is designed, documented and maintained.
+
+---
+
+## 🚀 Current Focus
+
+- Building production-grade applications with React & Next.js
+- Front-End Architecture
+- Product Engineering
+- AI-Assisted Software Development
+- Observability
+- Software Design
+
+---
+
+## 🛠 Tech Stack
+
+### Front-End
+
+React • Next.js • TypeScript • JavaScript
+
+HTML • CSS • SCSS • Material UI
+
+---
+
+### Engineering
+
+REST APIs
+
+Feature Flags
+
+Observability
+
+Testing
+
+Responsive Design
+
+Performance
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+Jest
+
+React Testing Library
+
+Sentry
+
+Google Tag Manager
+
+Hotjar
+
+Cursor
+
+GitHub Copilot
+
+ChatGPT
+
+---
+
+## 📌 Featured Project
+
+### AdminHub *(Work in Progress)*
+
+A production-inspired admin platform designed to explore modern software engineering practices.
+
+Planned features include:
+
+- RBAC
+- Feature Flags
+- Audit Logs
+- User Management
+- Dashboard
+- Testing
+- Observability
+- Documentation
+- ADRs
+- CI/CD
+
+---
+
+## 🎯 What I'm looking for
+
+I'm currently looking for Software Engineer opportunities where I can help build scalable digital products while continuing to grow in software architecture and engineering excellence.
+
+---
+
+## 🤝 Let's connect
+
+📧 flaviasatler@hotmail.com
+
+💼 LinkedIn
+
+🌎 Portfolio (coming soon)
