@@ -74,6 +74,7 @@ ChatGPT
 ### AdminHub *(Work in Progress)*
 
 A production-inspired admin platform designed to explore modern software engineering practices.
+An open-source project focused on modern software engineering practices.
 
 Planned features include:
 
@@ -102,4 +103,3 @@ I'm currently looking for Software Engineer opportunities where I can help build
 
 💼 LinkedIn - https://www.linkedin.com/in/flaviasatler
 
-🌎 Portfolio (coming soon)
