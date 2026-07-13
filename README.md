@@ -2,104 +2,147 @@
 
 ## Software Engineer specialized in Front-End Engineering
 
-I build scalable digital products with a strong focus on software architecture, product engineering and developer experience.
+I enjoy building software that is scalable, maintainable and designed to
+solve real business problems.
 
-After nearly 8 years building fintech products, I'm now dedicating part of my time to building open-source projects that reflect how modern software is designed, documented and maintained.
+My experience comes primarily from the fintech industry, where I worked
+on customer-facing products using **React, Next.js and TypeScript**
+while collaborating with cross-functional teams throughout the entire
+product lifecycle.
 
----
+------------------------------------------------------------------------
 
 ## 🚀 Current Focus
 
-- Building production-grade applications with React & Next.js
-- Front-End Architecture
-- Product Engineering
-- AI-Assisted Software Development
-- Observability
-- Software Design
+-   Building production-grade applications with React, Next.js and
+    TypeScript
+-   Front-End Architecture
+-   Product Engineering
+-   Software Design
+-   Observability
+-   AI-Assisted Software Development
 
----
+------------------------------------------------------------------------
+
+## 💡 Engineering Mindset
+
+I enjoy understanding **why** software is built a certain way---not only
+**how** it's implemented.
+
+I'm especially interested in:
+
+-   Software Architecture
+-   Product Engineering
+-   System Design
+-   Developer Experience
+-   Scalability
+-   Observability
+-   Clean Architecture
+-   AI-assisted Engineering
+
+I believe great software comes from thoughtful engineering decisions,
+continuous learning and strong collaboration.
+
+------------------------------------------------------------------------
+
+## 📖 What you'll find here
+
+This GitHub is becoming a public journal of my evolution as a Software
+Engineer.
+
+Here you'll find:
+
+-   Production-inspired projects
+-   Architecture decisions
+-   System Design studies
+-   Engineering notes
+-   Experiments with AI-assisted development
+-   Learning in public
+
+------------------------------------------------------------------------
+
+## 🚧 Currently Building
+
+### AdminHub
+
+An open-source, production-inspired administration platform designed to
+simulate how modern software is built inside product companies.
+
+The goal is not simply to build another admin panel, but to explore
+software engineering practices used in real-world environments.
+
+### Planned Features
+
+-   Authentication
+-   RBAC (Role-Based Access Control)
+-   Feature Flags
+-   Dashboard
+-   Audit Logs
+-   Observability
+-   Automated Testing
+-   Architecture Decision Records (ADRs)
+-   Docker
+-   CI/CD
+-   Documentation
+
+------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
 ### Front-End
 
-React • Next.js • TypeScript • JavaScript
-
-HTML • CSS • SCSS • Material UI
-
----
+-   React
+-   Next.js
+-   TypeScript
+-   JavaScript
+-   HTML5
+-   CSS3
+-   SCSS
+-   Material UI
 
 ### Engineering
 
-REST APIs
+-   Front-End Architecture
+-   REST APIs
+-   Performance Optimization
+-   Responsive Design
+-   Accessibility
+-   Clean Code
 
-Feature Flags
+### State Management
 
-Observability
+-   Zustand
+-   SWR
+-   RxJS
 
-Testing
+### Testing
 
-Responsive Design
+-   Jest
+-   React Testing Library
 
-Performance
+### Observability
 
----
+-   Sentry
+-   Google Tag Manager
+-   Hotjar
 
-### Tools
+### AI
 
-Git
+-   ChatGPT
+-   GitHub Copilot
+-   Cursor
 
-GitHub
+------------------------------------------------------------------------
 
-Jest
+## 📫 Let's Connect
 
-React Testing Library
+**Email:** flaviasatler@hotmail.com
 
-Sentry
+**LinkedIn:** https://www.linkedin.com/in/flaviasatler/
 
-Google Tag Manager
+**GitHub:** https://github.com/FlaviaSatler
 
-Hotjar
+------------------------------------------------------------------------
 
-Cursor
-
-GitHub Copilot
-
-ChatGPT
-
----
-
-## 📌 Featured Project
-
-### AdminHub *(Work in Progress)*
-
-A production-inspired admin platform designed to explore modern software engineering practices.
-An open-source project focused on modern software engineering practices.
-
-Planned features include:
-
-- RBAC
-- Feature Flags
-- Audit Logs
-- User Management
-- Dashboard
-- Testing
-- Observability
-- Documentation
-- ADRs
-- CI/CD
-
----
-
-## 🎯 What I'm looking for
-
-I'm currently looking for Software Engineer opportunities where I can help build scalable digital products while continuing to grow in software architecture and engineering excellence.
-
----
-
-## 🤝 Let's connect
-
-📧 flaviasatler@hotmail.com
-
-💼 LinkedIn - https://www.linkedin.com/in/flaviasatler
-
+> *I'm not interested in building only interfaces. I'm interested in
+> building software that solves real problems.*
