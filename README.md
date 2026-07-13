@@ -100,6 +100,6 @@ I'm currently looking for Software Engineer opportunities where I can help build
 
 📧 flaviasatler@hotmail.com
 
-💼 LinkedIn
+💼 LinkedIn - https://www.linkedin.com/in/flaviasatler
 
 🌎 Portfolio (coming soon)
